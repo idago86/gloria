@@ -1,0 +1,6 @@
+ws\PersServiceWS.class
+db\PersoanaDB.class
+dao\AbstractFacade.class
+service\PersoaneService.class
+db\PersoanaDB_.class
+dao\PersoanaDao.class
